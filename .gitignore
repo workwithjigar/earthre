@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+backend/build/
+backend/dist/
+*.db
+
+# Node
+node_modules/
+frontend/dist/
+.env
+.env.local
+
+# AWS SAM
+.aws-sam/
+samconfig.toml
+
+.DS_Store
